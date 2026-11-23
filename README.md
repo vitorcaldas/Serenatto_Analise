@@ -25,8 +25,6 @@ Diagnosticar o comportamento de receita, a frequência de consumo, o desempenho 
 └── README.md                           # Documentação principal do projeto
 
 
----
-
 ## 2. Cenário de Negócio Analisado
 
 A **Serenatto** é uma operação de cafeterias com atuação multicanal (**Loja física, App e Delivery**) e presença regional (São Paulo, Curitiba e Belo Horizonte)[cite: 1, 3]. A diretoria recebeu um relatório preliminar de uma equipe anterior sugerindo que a operação estava "saudável e excelente", recomendando **manter a estratégia atual e investir na expansão para novas cidades e na experiência presencial**[cite: 1].
