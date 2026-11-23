@@ -7,24 +7,6 @@ Análise exploratória, inferência estatística e modelagem preditiva aplicada 
 ## 🎯 Objetivo do Projeto
 Diagnosticar o comportamento de receita, a frequência de consumo, o desempenho comparativo entre canais de venda e os fatores associados à satisfação dos clientes, fornecendo recomendações estratégicas baseadas em evidências auditadas e estatisticamente robustas.
 
-## 📂 Estrutura do Repositório
-```text
-├── data/
-│   ├── raw/
-│   │   └── vendas_serenatto.csv        # Base bruta original (imutável)
-│   └── processed/
-│       └── vendas_serenatto_clean.csv  # Base higienizada, tipada e padronizada
-├── notebooks/
-│   ├── 01_preparacao_e_eda.ipynb       # Auditoria de qualidade, limpeza e estatística descritiva
-│   ├── 02_amostragem_e_hipoteses.ipynb # Avaliação amostral e testes de comparação entre canais
-│   └── 03_modelagem_e_dataviz.ipynb    # Pipeline preditivo (satisfação) e visualizações executivas
-├── reports/
-│   ├── figures/                        # Gráficos finais em alta resolução (eixos validados)
-│   └── comunicado_diretoria.md         # Parecer executivo com achados, limites e próximos passos
-├── requirements.txt                    # Dependências e versões fixadas
-└── README.md                           # Documentação principal do projeto
-
-
 ## 2. Cenário de Negócio Analisado
 
 A **Serenatto** é uma operação de cafeterias com atuação multicanal (**Loja física, App e Delivery**) e presença regional (São Paulo, Curitiba e Belo Horizonte)[cite: 1, 3]. A diretoria recebeu um relatório preliminar de uma equipe anterior sugerindo que a operação estava "saudável e excelente", recomendando **manter a estratégia atual e investir na expansão para novas cidades e na experiência presencial**[cite: 1].
