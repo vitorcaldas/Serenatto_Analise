@@ -2,7 +2,7 @@
 
 # Projeto Serenatto — Diagnóstico de Vendas, Canais e Satisfação de Clientes
 
-Análise exploratória, inferência estatística e modelagem preditiva aplicada aos dados operacionais e de experiência do cliente da rede de cafeterias **Serenatto** (referência: 2024).
+Análise exploratória, inferência estatística e modelagem preditiva aplicada aos dados operacionais e de experiência do cliente da rede de cafeterias **Serenatto**.
 
 ## 🎯 Objetivo do Projeto
 Diagnosticar o comportamento de receita, a frequência de consumo, o desempenho comparativo entre canais de venda e os fatores associados à satisfação dos clientes, fornecendo recomendações estratégicas baseadas em evidências auditadas e estatisticamente robustas.
